@@ -1,8 +1,8 @@
 class DailyTask < Formula
   desc "Daily task runner that executes at 4 PM"
   homepage "https://github.com/yourusername/daily_task"
-  url "https://github.com/yourusername/daily_task/archive/v1.0.0.tar.gz"
-  sha256 "YOUR_TARBALL_SHA256_HERE" # You'll need to update this with actual SHA
+  url "https://github.com/shaharke/demo-mac-service/archive/refs/tags/v1.0.0.tar.gz"
+  sha256 "254d1322dc9ec8bf947e037295e7ed5eaab81599c8652e8a6ef4b7ecff48ef96"
   version "1.0.0"
 
   def install
